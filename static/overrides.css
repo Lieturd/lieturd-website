@@ -32,3 +32,11 @@
 .navbar-brand img {
   animation: spin 5s infinite cubic-bezier(0.77, 0, 0.175, 1);
 }
+
+.clients .heading {
+    margin-bottom: 20px;
+}
+
+#portfolio .portfolio-item .portfolio-link img.img-responsive {
+    height: auto;
+}
