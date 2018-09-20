@@ -199,7 +199,7 @@ googleAnalytics = "UA-92114905-1"
         # Suggestion: .svg in the size of 280px*80px looks good
 
         [[params.clients]]
-            logo = "digitalliving.png"
+            logo = "digitalliving.svg"
             link = "http://www.digitalliving.fi/"
 
         [[params.clients]]

@@ -37,6 +37,10 @@
     margin-bottom: 20px;
 }
 
+.clients img {
+    max-height: 80px;
+}
+
 #portfolio .portfolio-item .portfolio-link img.img-responsive {
     height: auto;
 }
