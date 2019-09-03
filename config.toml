@@ -175,15 +175,31 @@ googleAnalytics = "UA-92114905-1"
             name = "Janne Enberg"
             position = "CEO"
             scope = [
-            "Cloud Services",
-            "Software Architecture",
-            "DevOps"
+                "Cloud Services",
+                "Software Architecture",
+                "DevOps"
             ]
             # For bio markdown and even multiline strings are available.
             #bio = """Nothing here yet."""
             social = [
                 ["fa-github", "https://github.com/lietu"],
                 ["fa-linkedin", "https://www.linkedin.com/in/lietu/"]
+            ]
+
+        [[params.team.members]]
+            img = "dennis.jpg"
+            name = "Dennis Kumar"
+            position = "Junior Developer"
+            scope = [
+                "React",
+                "Frontend development"
+            ]
+            # For bio markdown and even multiline strings are available.
+            #bio = """Nothing here yet."""
+            social = [
+                ["fa-github", "https://github.com/kumardennis"],
+                ["fa-linkedin", "https://www.linkedin.com/in/dennis-kumar-511a7010b"]
+
             ]
 
     # Client section
